@@ -17,11 +17,11 @@ Realização de uma análise inicial do dataset escolhido. Esta etapa envolveu a
 Com base nos insights da análise exploratória, foram aplicadas transformações nas variáveis do dataset. Isso incluiu técnicas como normalização, codificação de variáveis categóricas e a criação de novas features.
 
 ### 3. Aprendizagem Supervisionada
-Nesta etapa, foram selecionados e implementados modelos de aprendizagem supervisionada. Realizamos o treinamento desses modelos com o dataset preparado e avaliamos seu desempenho com métricas adequadas.
+Nesta etapa, foi selecionado e implementado modelo de aprendizagem supervisionada. Foi realizado o treinamento desse modelo com o dataset preparado e avaliado seu desempenho com métricas adequadas.
 * **Modelo Selecionado:** Regressão Linear.
 
 ### 4. Aprendizagem Não Supervisionada
-Nesta etapa, foram selecionados e implementados modelos de aprendizagem não supervisionada. Realizamos o treinamento desses modelos com o dataset e logo após, uma interpretação dos mesmos.
+Nesta etapa, foi selecionado e implementado modelo de aprendizagem não supervisionada. Foi realizado o treinamento desse modelo com o dataset e logo após, uma interpretação do mesmo.
 * **Modelo Selecionado:** Clusterização
 
 
