@@ -18,11 +18,11 @@ Com base nos insights da análise exploratória, foram aplicadas transformaçõe
 
 ### 3. Aprendizagem Supervisionada
 Nesta etapa, foram selecionados e implementados modelos de aprendizagem supervisionada. Realizamos o treinamento desses modelos com o dataset preparado e avaliamos seu desempenho com métricas adequadas.
-* **Modelos Selecionados:** Regressão Linear.
+* **Modelo Selecionado:** Regressão Linear.
 
 ### 4. Aprendizagem Não Supervisionada
 Nesta etapa, foram selecionados e implementados modelos de aprendizagem não supervisionada. Realizamos o treinamento desses modelos com o dataset e logo após, uma interpretação dos mesmos.
-* **Modelos Selecionados:** Clusterização
+* **Modelo Selecionado:** Clusterização
 
 
 
